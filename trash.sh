@@ -1,8 +1,8 @@
 #!/bin/bash
 
 echo "Select your project type."
-echo "r, rust -> rust lang"
-echo "c, C    -> c    lang"
+echo "r, rust -> Rust lang"
+echo "c, C    -> C lang"
 
 echo -n ">"
 
